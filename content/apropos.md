@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **Géographie en 3ème année** à l'**UNIL**, avec un intérêt particulier pour **Github et la programmation XD**.
+Je suis étudiant(e) en bachelor en **Géographie en 3ème année** à l'**UNIL**, avec un intérêt particulier pour **Github et la programmation**.
