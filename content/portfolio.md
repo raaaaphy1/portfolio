@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. AMENTERR-3 : projet d'aménagement du territoire.
+2. GEOGECON-3 : économies mondiales selon le territoire.
+3. GEOGSOCICULT-1 : dimensions sociales/culturelles de production de l'espace.
+4. GESTEAU-3 : modalités de gouvernance de l'eau.
+5. METHENQUANAL-1 : développement de problématiques cohérentes.
 
 ---
 
